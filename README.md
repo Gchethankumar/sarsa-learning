@@ -67,22 +67,18 @@ def sarsa(env,
 # OUTPUT:
 ## optimal policy, optimal value function , success rate for the optimal policy.
 
-![RL_6 1](https://github.com/user-attachments/assets/704fbbac-37f7-45c6-83ae-2e9b3844ddfd)
+![img21](https://github.com/user-attachments/assets/ddabf6c7-b222-4f68-bf61-5e5304e6b41e)
 
-![RL_6 2](https://github.com/user-attachments/assets/cf5c8e4a-50d7-4703-bd48-607c18d34f65)
-
+![img22](https://github.com/user-attachments/assets/1e33d3d1-1c0b-495d-8ab0-190d009efc48)
 
 ## state value functions of Monte Carlo method:
 
-
-![RL_6 3](https://github.com/user-attachments/assets/fd3945d2-d151-44b5-a665-52f36c5063e0)
+![img23](https://github.com/user-attachments/assets/4d5c273e-bfbb-4c4c-b8b5-4ec372eb3145)
 
 
 ## State value functions of SARSA learning:
 
-
-![RL_6 4](https://github.com/user-attachments/assets/0c674149-8451-4b87-beaf-9a95df6eb90f)
-
+![img24](https://github.com/user-attachments/assets/53489af6-32bb-41b2-9080-9f211a21f504)
 
 # RESULT:
 Thus to develop a Python program to find the optimal policy for the given RL environment using SARSA-Learning and compare the state values with the Monte Carlo method has been implemented successfully
